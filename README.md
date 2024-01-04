@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dpq1dxt96wunh08u?svg=true)](https://ci.appveyor.com/project/helenapril9/dom)
+![CI](https://github.com/helenapril9/dom/actions/workflows/web.yml/badge.svg)
